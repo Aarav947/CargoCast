@@ -12,3 +12,6 @@ LSTM time-series model to predict port delays 7–14 days in advance once 60+ da
 
 Tech Stack
 Python · XGBoost · TensorFlow · Pandas · Streamlit · Plotly · NewsAPI · OpenWeather API
+
+
+<img width="2011" height="1354" alt="image" src="https://github.com/user-attachments/assets/b7d44f2b-7334-4630-a1d7-84da2a1a9808" />
