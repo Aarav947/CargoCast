@@ -1,6 +1,4 @@
-# CargoCast
-Real time Port Risk Monitoring and Forecasting
-
+🚢 CargoCast: Real-Time Port Risk Monitoring
 ML-powered supply chain risk monitoring system tracking shipping disruption risk across 15 major global ports using live weather, news sentiment, and vessel data.
 What It Does
 Collects live data daily from weather and news APIs, computes a composite risk score (0–100%) for each port, and visualizes results on an interactive global dashboard.
